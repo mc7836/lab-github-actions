@@ -2,6 +2,7 @@
 
 [![Build Status](https://github.com/mc7836/lab-github-actions/actions/workflows/workflow.yml/badge.svg)](https://github.com/mc7836/lab-github-actions/actions)
 
+### Totally Random
 
 This is for NYU DevOps lab on using GitHub Actions with Redis for Continuous Integration
 
